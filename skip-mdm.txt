@@ -1,0 +1,9 @@
+||deviceenrollment.apple.com^
+||mdmenrollment.apple.com^
+||gdmf.apple.com^
+||axm-adm-mdm.apple.com^
+||iprofiles.apple.com^
+||albert.apple.com^
+||acmdm.apple.com^
+||api.tableplus.com^
+
