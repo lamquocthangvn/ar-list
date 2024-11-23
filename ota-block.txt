@@ -1,0 +1,4 @@
+||mesu.apple.com^
+||gdmf.apple.com^
+||comm-cohort.ess.apple.com^
+||comm-main.ess.apple.com^
