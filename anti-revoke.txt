@@ -6,6 +6,7 @@
 ||appattest.apple.com^
 ||vpp.itunes.apple.com^
 ||axm-app.apple.com^
+||ppq.apple.com^
 @@||app.localhost.direct^|$important
 @@||api.push.apple.com^|$important
 @@||push.apple.com^|$important
